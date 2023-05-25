@@ -8,7 +8,7 @@
 <h2 align="center">About Me 💭</h2><br>
 
 <div display="inline">
-  <p align="justify" width="300px">Hello, my name is Paulo and I am a programmer passionate about the exact sciences. My trajectory began when I won medals in scientific olympics in mathematics and astronomy, which led me to realize that I could apply my mathematical knowledge in programming. I was delighted to discover that programming allows me to learn new things every day. Standing still is not an option for me as I am always looking to improve my skills and knowledge.</p>
+  <p align="justify" width="300px">Olá, meu nome é Paulo e sou um programador Front-End apaixonado por ciências exatas. Minha trajetória começou quando ganhei medalhas em olimpíadas científicas de matemática e astronomia, o que me levou a perceber que poderia aplicar meus conhecimentos matemáticos na programação. Fiquei encantado ao descobrir que a programação me permite aprender coisas novas todos os dias. Ficar parado não é uma opção para mim, pois estou sempre em busca de aprimorar minhas habilidades e conhecimentos. </br></br> Portfólio: https://paulofilho1.github.io/</p>
 </div>
 
 <h2 align="center">Language Stack ✨</h2><br>
