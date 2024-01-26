@@ -40,23 +40,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original
 </span>
 
 <img align="center" alt="React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-
-</div>
-
-
-<h2 align="center">GitHub Status 👍</h2><br>
-
-<div align="center">
-  <a href="https://github.com/PauloFilho1">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PauloFilho1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFilho1&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-
-![snake gif](https://github.com/PauloFilho1/PauloFilho1/blob/output/github-contribution-grid-snake.svg)
-
-</div>
   
   ##
   
