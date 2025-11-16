@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/paulo-filho-408a74264" target="_blank">
+  <a href="https://www.linkedin.com/in/zy0n" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://paulofilho1.github.io/" target="_blank">
